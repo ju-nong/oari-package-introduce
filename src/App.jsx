@@ -22,7 +22,6 @@ function App() {
             <a href="https://www.npmjs.com/package/oari" target="_blank">
                 <h1>npm oari package</h1>
             </a>
-            어서오고
             {images.file === null ? (
                 <></>
             ) : (
